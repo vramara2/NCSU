@@ -1,0 +1,140 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/afs/unity.ncsu.edu/users/v/vramara2/ASIC_DESIGN/Project_updated_scope/ECE464_564_Project/ece564
+vcontrol_path
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 XcbE0[=624XY0j9DZHgUb0
+IMoL^V1RiD;T^4^_XM2X>a3
+R0
+w1572569309
+8control_path.v
+Fcontrol_path.v
+L0 1
+Z2 OL;L;10.6c;65
+!s108 1572569316.000000
+!s107 control_path.v|
+!s90 -reportprogress|300|control_path.v|
+!i113 0
+Z3 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z4 tCvgOpt 0
+vECE564MyDesign
+Z5 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 YfGXYQ=5]<>_7<Bfz;Q6N3
+I]VmITVm[=;G`hLX<?fWM81
+Z6 !s105 ece564_project_tb_top_sv_unit
+S1
+R0
+w1573250789
+8ECE564MyDesign.v
+FECE564MyDesign.v
+L0 8
+R2
+Z7 !s108 1573857638.000000
+Z8 !s107 sram.sv|ECE564MyDesign.v|ece564_project_tb_top.sv|
+Z9 !s90 -reportprogress|300|ece564_project_tb_top.sv|
+!i113 0
+R3
+R4
+n@e@c@e564@my@design
+vmultiplier
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 PRD8SmJn@5=9BSM_;R^fA2
+I[2]1Y[JY=jjgA5JO@YzKf0
+R0
+w1573253854
+8multiplier.v
+Fmultiplier.v
+L0 1
+R2
+!s108 1573253857.000000
+!s107 multiplier.v|
+!s90 -reportprogress|300|multiplier.v|
+!i113 0
+R3
+R4
+vsram
+R5
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 kLik[UlTT>A7oXC65:LIa0
+IBzT_D5U`e>ePTIWg:jB360
+R6
+S1
+R0
+w1572549613
+8sram.sv
+Fsram.sv
+L0 16
+R2
+R7
+R8
+R9
+!i113 0
+R3
+R4
+vtanh_interpolation
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 @D6kKGT:N06lkeo5H[4kz2
+IV?j@<`PN[h<Xd6J5z2QQJ1
+R0
+w1573857497
+8tanh_interpolation.v
+Ftanh_interpolation.v
+L0 1
+R2
+!s108 1573857510.000000
+!s107 tanh_interpolation.v|
+!s90 -reportprogress|300|tanh_interpolation.v|
+!i113 0
+R3
+R4
+vtb_top
+R5
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 S=XB`lMV<dZ9=dcR3R^8K2
+Io@X:ogm]]kE7ROF>;XRg[2
+R6
+S1
+R0
+w1573857630
+8ece564_project_tb_top.sv
+Fece564_project_tb_top.sv
+L0 34
+R2
+R7
+R8
+R9
+!i113 0
+R3
+R4
